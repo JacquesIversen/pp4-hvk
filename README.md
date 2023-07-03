@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome JacquesIversen,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
@@ -106,3 +106,18 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+
+Setting up app: 
+Type in following commands: 
+-- pip3 install django gunicorn
+Next command, create django-files: 
+-- django-admin startproject hvk
+Next command, get back to directory:
+-- cd
+Next command, open preview.
+-- python3 manage.py runserver
+
+Setting up Django URLS & Views:
+Adding 'include' to imports.
+Setting up paths. 
